@@ -1,9 +1,6 @@
 A
 B
 C
-<<<<<<< HEAD
-F
-=======
 D
 E
->>>>>>> feature
+F
