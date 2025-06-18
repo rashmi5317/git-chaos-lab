@@ -1,4 +1,4 @@
-# 👩‍🔧 Git Like a Pro: Real-World Conflict & Chaos Lab
+git# 👩‍🔧 Git Like a Pro: Real-World Conflict & Chaos Lab
 
 Welcome to the **Git Chaos Lab** — a hands-on workshop built around real-world Git disasters.  
 Whether you're just starting or have yelled at `git reset --hard` one too many times, this repo will guide you from survival to mastery.
@@ -18,7 +18,7 @@ Whether you're just starting or have yelled at `git reset --hard` one too many t
 
 1. ✅ **Warm-up**: Practice Git basics  
    → `git checkout lab0-git-flow`
-
+   
 2. 🧠 **Git Internals & DAG Playground**  
    → `git checkout lab-dag-playground`
 
